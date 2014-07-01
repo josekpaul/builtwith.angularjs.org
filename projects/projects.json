@@ -3580,7 +3580,22 @@
         "No jQuery",
         "Bootstrap"
       ]
-    }
+    },
+    {
+  "name": "Summagram",
+  "thumb": "summagram/thumb.png",
+  "desc": "Summagram lets users compose resumes and other docs with interactive timelines and explore-able tags in place of static text",
+  "url": "http://www.summagram.com",
+  "info": "http://www.summagram.com/home/concepts",
+  "submitter": "josekpaul",
+  "submissionDate": "2014-07-01",
+  "tags": [
+    "Production",
+    "Productivity", "Education", "Visualization", "Resumes", "Presentations",
+    "Animations", "D3", "Timelines",
+    "jQuery"
+  ]
+}
 
   ]
 }
